@@ -67,6 +67,6 @@ What steps did you take to try and increase model performance?
     - Second layer has 50
   - This creates 11,101 total parameters.
   
-  # Summary:
+ # Summary:
   
-  - Sadly in the end i did not achieve the desired model performance. perhaps if i were to fine tune the model further i would add more neurons to my layers or perhaps add a third hidden layer to increase the scruteny on the model itself and have it run through more tests.
+- Sadly in the end i did not achieve the desired model performance. perhaps if i were to fine tune the model further i would add more neurons to my layers or perhaps add a third hidden layer to increase the scruteny on the model itself and have it run through more tests.
